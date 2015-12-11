@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hamish/revealingglazes/issues"
   },
-  "homepage": "https://github.com/hamish/revealingglazes#readme"
+  "homepage": "https://github.com/hamish/revealingglazes#readme",
+  "dependencies": {
+    "gitbook-cli": "^1.0.1"
+  }
 }
